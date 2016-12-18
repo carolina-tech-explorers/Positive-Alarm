@@ -1,0 +1,8 @@
+SetAlarm set my alarm to {Time} on {Date}
+SetAlarm set my alarm to {Time} tonight
+SetAlarm set my alarm to {Time} tomorrow
+SetAlarm set my alarm to {Time} every day
+SetAlarm set my alarm to be {Time} on {Date}
+SetAlarm set my alarm to be {Time} tonight
+SetAlarm set my alarm to be {Time} tomorrow
+SetAlarm set my alarm to be {Time} every day
