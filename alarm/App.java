@@ -49,6 +49,9 @@ public class App implements Speechlet{
 			Returns a plain text response confirming the alarm
 			is set or not.
 		*/
+		PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+		speech.setText("Set alarm!");
+		return new SpeechletResponse.newTellResponse(speech);
 		 
 	}
 
