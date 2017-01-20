@@ -1,8 +1,619 @@
+SetAlarm set my alarm to {Time}
 SetAlarm set my alarm to {Time} on {Date}
+SetAlarm set my alarm to {Time} {Date}
+SetAlarm set my alarm to {Time} for {Date}
+SetAlarm set my alarm to {Time} for the {Date}
 SetAlarm set my alarm to {Time} tonight
+SetAlarm set my alarm to {Time} today
 SetAlarm set my alarm to {Time} tomorrow
 SetAlarm set my alarm to {Time} every day
+SetAlarm set my alarm to {Time} day after tomorrow
+SetAlarm set my alarm to {Time} for tonight
+SetAlarm set my alarm to {Time} for today
+SetAlarm set my alarm to {Time} for tomorrow
+SetAlarm set my alarm to {Time} for every day
+SetAlarm set my alarm to {Time} for day after tomorrow
+SetAlarm set my alarm to {Time} for the day after tomorrow
+SetAlarm set my alarm to {Time} on tonight
+SetAlarm set my alarm to {Time} on today
+SetAlarm set my alarm to {Time} on tomorrow
+SetAlarm set my alarm to {Time} on every day
+SetAlarm set my alarm to {Time} on day after tomorrow
+SetAlarm set my alarm to {Time} on the day after tomorrow
+SetAlarm set my alarm to {Time} on mondays
+SetAlarm set my alarm to {Time} on tuesdays
+SetAlarm set my alarm to {Time} on wednesdays
+SetAlarm set my alarm to {Time} on thursdays
+SetAlarm set my alarm to {Time} on fridays
+SetAlarm set my alarm to {Time} on saturdays
+SetAlarm set my alarm to {Time} on sundays
+SetAlarm set my alarm to {Time} on monday
+SetAlarm set my alarm to {Time} on tuesday
+SetAlarm set my alarm to {Time} on wednesday
+SetAlarm set my alarm to {Time} on thurday
+SetAlarm set my alarm to {Time} on friday
+SetAlarm set my alarm to {Time} on saturday
+SetAlarm set my alarm to {Time} on sunday
+SetAlarm set my alarm to {Time} mondays
+SetAlarm set my alarm to {Time} tuesdays
+SetAlarm set my alarm to {Time} wednesdays
+SetAlarm set my alarm to {Time} thuesdays
+SetAlarm set my alarm to {Time} fridays
+SetAlarm set my alarm to {Time} saturdays
+SetAlarm set my alarm to {Time} sundays
+SetAlarm set my alarm to {Time} monday
+SetAlarm set my alarm to {Time} tuesday
+SetAlarm set my alarm to {Time} wednesday
+SetAlarm set my alarm to {Time} thursday
+SetAlarm set my alarm to {Time} friday
+SetAlarm set my alarm to {Time} saturday
+SetAlarm set my alarm to {Time} sunday
+SetAlarm set my alarm to {Time} for mondays
+SetAlarm set my alarm to {Time} for tuesdays
+SetAlarm set my alarm to {Time} for wednesdays
+SetAlarm set my alarm to {Time} for thuesdays
+SetAlarm set my alarm to {Time} for fridays
+SetAlarm set my alarm to {Time} for saturdays
+SetAlarm set my alarm to {Time} for sundays
+SetAlarm set my alarm to {Time} for monday
+SetAlarm set my alarm to {Time} for tuesday
+SetAlarm set my alarm to {Time} for wednesday
+SetAlarm set my alarm to {Time} for thursday
+SetAlarm set my alarm to {Time} for friday
+SetAlarm set my alarm to {Time} for saturday
+SetAlarm set my alarm to {Time} for sunday
+SetAlarm set my alarm to be {Time}
 SetAlarm set my alarm to be {Time} on {Date}
+SetAlarm set my alarm to be {Time} {Date}
+SetAlarm set my alarm to be {Time} for {Date}
+SetAlarm set my alarm to be {Time} for the {Date}
 SetAlarm set my alarm to be {Time} tonight
+SetAlarm set my alarm to be {Time} today
 SetAlarm set my alarm to be {Time} tomorrow
 SetAlarm set my alarm to be {Time} every day
+SetAlarm set my alarm to be {Time} day after tomorrow
+SetAlarm set my alarm to be {Time} for tonight
+SetAlarm set my alarm to be {Time} for today
+SetAlarm set my alarm to be {Time} for tomorrow
+SetAlarm set my alarm to be {Time} for every day
+SetAlarm set my alarm to be {Time} for day after tomorrow
+SetAlarm set my alarm to be {Time} for the day after tomorrow
+SetAlarm set my alarm to be {Time} on tonight
+SetAlarm set my alarm to be {Time} on today
+SetAlarm set my alarm to be {Time} on tomorrow
+SetAlarm set my alarm to be {Time} on every day
+SetAlarm set my alarm to be {Time} on day after tomorrow
+SetAlarm set my alarm to be {Time} on the day after tomorrow
+SetAlarm set my alarm to be {Time} on mondays
+SetAlarm set my alarm to be {Time} on tuesdays
+SetAlarm set my alarm to be {Time} on wednesdays
+SetAlarm set my alarm to be {Time} on thursdays
+SetAlarm set my alarm to be {Time} on fridays
+SetAlarm set my alarm to be {Time} on saturdays
+SetAlarm set my alarm to be {Time} on sundays
+SetAlarm set my alarm to be {Time} on monday
+SetAlarm set my alarm to be {Time} on tuesday
+SetAlarm set my alarm to be {Time} on wednesday
+SetAlarm set my alarm to be {Time} on thurday
+SetAlarm set my alarm to be {Time} on friday
+SetAlarm set my alarm to be {Time} on saturday
+SetAlarm set my alarm to be {Time} on sunday
+SetAlarm set my alarm to be {Time} mondays
+SetAlarm set my alarm to be {Time} tuesdays
+SetAlarm set my alarm to be {Time} wednesdays
+SetAlarm set my alarm to be {Time} thuesdays
+SetAlarm set my alarm to be {Time} fridays
+SetAlarm set my alarm to be {Time} saturdays
+SetAlarm set my alarm to be {Time} sundays
+SetAlarm set my alarm to be {Time} monday
+SetAlarm set my alarm to be {Time} tuesday
+SetAlarm set my alarm to be {Time} wednesday
+SetAlarm set my alarm to be {Time} thursday
+SetAlarm set my alarm to be {Time} friday
+SetAlarm set my alarm to be {Time} saturday
+SetAlarm set my alarm to be {Time} sunday
+SetAlarm alarm {Time}
+SetAlarm alarm {Time} on {Date}
+SetAlarm alarm {Time} {Date}
+SetAlarm alarm {Time} on the {Date}
+SetAlarm alarm {Time} tonight
+SetAlarm alarm {Time} today
+SetAlarm alarm {Time} tomorrow
+SetAlarm alarm {Time} every day
+SetAlarm alarm {Time} day after tomorrow
+SetAlarm alarm {Time} for tonight
+SetAlarm alarm {Time} for today
+SetAlarm alarm {Time} for tomorrow
+SetAlarm alarm {Time} for every day
+SetAlarm alarm {Time} for day after tomorrow
+SetAlarm alarm {Time} for the day after tomorrow
+SetAlarm alarm {Time} on tonight
+SetAlarm alarm {Time} on today
+SetAlarm alarm {Time} on tomorrow
+SetAlarm alarm {Time} on every day
+SetAlarm alarm {Time} on day after tomorrow
+SetAlarm alarm {Time} on the day after tomorrow
+SetAlarm alarm {Time} on mondays
+SetAlarm alarm {Time} on tuesdays
+SetAlarm alarm {Time} on wednesdays
+SetAlarm alarm {Time} on thursdays
+SetAlarm alarm {Time} on fridays
+SetAlarm alarm {Time} on saturdays
+SetAlarm alarm {Time} on sundays
+SetAlarm alarm {Time} on monday
+SetAlarm alarm {Time} on tuesday
+SetAlarm alarm {Time} on wednesday
+SetAlarm alarm {Time} on thursday
+SetAlarm alarm {Time} on friday
+SetAlarm alarm {Time} on saturday
+SetAlarm alarm {Time} on sunday
+SetAlarm alarm {Time} mondays
+SetAlarm alarm {Time} tuesdays
+SetAlarm alarm {Time} wednesdays
+SetAlarm alarm {Time} thursdays
+SetAlarm alarm {Time} fridays
+SetAlarm alarm {Time} saturdays
+SetAlarm alarm {Time} sundays
+SetAlarm alarm {Time} monday
+SetAlarm alarm {Time} tuesday
+SetAlarm alarm {Time} wednesday
+SetAlarm alarm {Time} thursday
+SetAlarm alarm {Time} friday
+SetAlarm alarm {Time} saturday
+SetAlarm alarm {Time} sunday
+SetAlarm alarm {Time} for mondays
+SetAlarm alarm {Time} for tuesdays
+SetAlarm alarm {Time} for wednesdays
+SetAlarm alarm {Time} for thursdays
+SetAlarm alarm {Time} for fridays
+SetAlarm alarm {Time} for saturdays
+SetAlarm alarm {Time} for sundays
+SetAlarm alarm {Time} for monday
+SetAlarm alarm {Time} for tuesday
+SetAlarm alarm {Time} for wednesday
+SetAlarm alarm {Time} for thursday
+SetAlarm alarm {Time} for friday
+SetAlarm alarm {Time} for saturday
+SetAlarm alarm {Time} for sunday
+SetAlarm alarm for {Time}
+SetAlarm alarm for {Time} on {Date}
+SetAlarm alarm for {Time} {Date}
+SetAlarm alarm for {Time} on the {Date}
+SetAlarm alarm for {Time} tonight
+SetAlarm alarm for {Time} today
+SetAlarm alarm for {Time} tomorrow
+SetAlarm alarm for {Time} every day
+SetAlarm alarm for {Time} day after tomorrow
+SetAlarm alarm for {Time} for tonight
+SetAlarm alarm for {Time} for today
+SetAlarm alarm for {Time} for tomorrow
+SetAlarm alarm for {Time} for every day
+SetAlarm alarm for {Time} for day after tomorrow
+SetAlarm alarm for {Time} for the day after tomorrow
+SetAlarm alarm for {Time} on tonight
+SetAlarm alarm for {Time} on today
+SetAlarm alarm for {Time} on tomorrow
+SetAlarm alarm for {Time} on every day
+SetAlarm alarm for {Time} on day after tomorrow
+SetAlarm alarm for {Time} on the day after tomorrow
+SetAlarm alarm for {Time} on mondays
+SetAlarm alarm for {Time} on tuesdays
+SetAlarm alarm for {Time} on wednesdays
+SetAlarm alarm for {Time} on thursdays
+SetAlarm alarm for {Time} on fridays
+SetAlarm alarm for {Time} on saturdays
+SetAlarm alarm for {Time} on sundays
+SetAlarm alarm for {Time} on monday
+SetAlarm alarm for {Time} on tuesday
+SetAlarm alarm for {Time} on wednesday
+SetAlarm alarm for {Time} on thursday
+SetAlarm alarm for {Time} on friday
+SetAlarm alarm for {Time} on saturday
+SetAlarm alarm for {Time} on sunday
+SetAlarm alarm for {Time} mondays
+SetAlarm alarm for {Time} tuesdays
+SetAlarm alarm for {Time} wednesdays
+SetAlarm alarm for {Time} thursdays
+SetAlarm alarm for {Time} fridays
+SetAlarm alarm for {Time} saturdays
+SetAlarm alarm for {Time} sundays
+SetAlarm alarm for {Time} monday
+SetAlarm alarm for {Time} tuesday
+SetAlarm alarm for {Time} wednesday
+SetAlarm alarm for {Time} thursday
+SetAlarm alarm for {Time} friday
+SetAlarm alarm for {Time} saturday
+SetAlarm alarm for {Time} sunday
+SetAlarm alarm for {Time} for mondays
+SetAlarm alarm for {Time} for tuesdays
+SetAlarm alarm for {Time} for wednesdays
+SetAlarm alarm for {Time} for thursdays
+SetAlarm alarm for {Time} for fridays
+SetAlarm alarm for {Time} for saturdays
+SetAlarm alarm for {Time} for sundays
+SetAlarm alarm for {Time} for monday
+SetAlarm alarm for {Time} for tuesday
+SetAlarm alarm for {Time} for wednesday
+SetAlarm alarm for {Time} for thursday
+SetAlarm alarm for {Time} for friday
+SetAlarm alarm for {Time} for saturday
+SetAlarm alarm for {Time} for sunday
+SetAlarm set alarm for {Time}
+SetAlarm set alarm for {Time} on {Date}
+SetAlarm set alarm for {Time} {Date}
+SetAlarm set alarm for {Time} on the {Date}
+SetAlarm set alarm for {Time} tonight
+SetAlarm set alarm for {Time} today
+SetAlarm set alarm for {Time} tomorrow
+SetAlarm set alarm for {Time} every day
+SetAlarm set alarm for {Time} day after tomorrow
+SetAlarm set alarm for {Time} for tonight
+SetAlarm set alarm for {Time} for today
+SetAlarm set alarm for {Time} for tomorrow
+SetAlarm set alarm for {Time} for every day
+SetAlarm set alarm for {Time} for day after tomorrow
+SetAlarm set alarm for {Time} for the day after tomorrow
+SetAlarm set alarm for {Time} on tonight
+SetAlarm set alarm for {Time} on today
+SetAlarm set alarm for {Time} on tomorrow
+SetAlarm set alarm for {Time} on every day
+SetAlarm set alarm for {Time} on day after tomorrow
+SetAlarm set alarm for {Time} on the day after tomorrow
+SetAlarm set alarm for {Time} on mondays
+SetAlarm set alarm for {Time} on tuesdays
+SetAlarm set alarm for {Time} on wednesdays
+SetAlarm set alarm for {Time} on thursdays
+SetAlarm set alarm for {Time} on fridays
+SetAlarm set alarm for {Time} on saturdays
+SetAlarm set alarm for {Time} on sundays
+SetAlarm set alarm for {Time} on monday
+SetAlarm set alarm for {Time} on tuesday
+SetAlarm set alarm for {Time} on wednesday
+SetAlarm set alarm for {Time} on thursday
+SetAlarm set alarm for {Time} on friday
+SetAlarm set alarm for {Time} on saturday
+SetAlarm set alarm for {Time} on sunday
+SetAlarm set alarm for {Time} mondays
+SetAlarm set alarm for {Time} tuesdays
+SetAlarm set alarm for {Time} wednesdays
+SetAlarm set alarm for {Time} thursdays
+SetAlarm set alarm for {Time} fridays
+SetAlarm set alarm for {Time} saturdays
+SetAlarm set alarm for {Time} sundays
+SetAlarm set alarm for {Time} monday
+SetAlarm set alarm for {Time} tuesday
+SetAlarm set alarm for {Time} wednesday
+SetAlarm set alarm for {Time} thursday
+SetAlarm set alarm for {Time} friday
+SetAlarm set alarm for {Time} saturday
+SetAlarm set alarm for {Time} sunday
+SetAlarm set alarm for {Time} for mondays
+SetAlarm set alarm for {Time} for tuesdays
+SetAlarm set alarm for {Time} for wednesdays
+SetAlarm set alarm for {Time} for thursdays
+SetAlarm set alarm for {Time} for fridays
+SetAlarm set alarm for {Time} for saturdays
+SetAlarm set alarm for {Time} for sundays
+SetAlarm set alarm for {Time} for monday
+SetAlarm set alarm for {Time} for tuesday
+SetAlarm set alarm for {Time} for wednesday
+SetAlarm set alarm for {Time} for thursday
+SetAlarm set alarm for {Time} for friday
+SetAlarm set alarm for {Time} for saturday
+SetAlarm set alarm for {Time} for sunday
+SetAlarm set my alarm for {Time}
+SetAlarm set my alarm for {Time} on {Date}
+SetAlarm set my alarm for {Time} {Date}
+SetAlarm set my alarm for {Time} on the {Date}
+SetAlarm set my alarm for {Time} tonight
+SetAlarm set my alarm for {Time} today
+SetAlarm set my alarm for {Time} tomorrow
+SetAlarm set my alarm for {Time} every day
+SetAlarm set my alarm for {Time} day after tomorrow
+SetAlarm set my alarm for {Time} for tonight
+SetAlarm set my alarm for {Time} for today
+SetAlarm set my alarm for {Time} for tomorrow
+SetAlarm set my alarm for {Time} for every day
+SetAlarm set my alarm for {Time} for day after tomorrow
+SetAlarm set my alarm for {Time} for the day after tomorrow
+SetAlarm set my alarm for {Time} on tonight
+SetAlarm set my alarm for {Time} on today
+SetAlarm set my alarm for {Time} on tomorrow
+SetAlarm set my alarm for {Time} on every day
+SetAlarm set my alarm for {Time} on day after tomorrow
+SetAlarm set my alarm for {Time} on the day after tomorrow
+SetAlarm set my alarm for {Time} on mondays
+SetAlarm set my alarm for {Time} on tuesdays
+SetAlarm set my alarm for {Time} on wednesdays
+SetAlarm set my alarm for {Time} on thursdays
+SetAlarm set my alarm for {Time} on fridays
+SetAlarm set my alarm for {Time} on saturdays
+SetAlarm set my alarm for {Time} on sundays
+SetAlarm set my alarm for {Time} on monday
+SetAlarm set my alarm for {Time} on tuesday
+SetAlarm set my alarm for {Time} on wednesday
+SetAlarm set my alarm for {Time} on thursday
+SetAlarm set my alarm for {Time} on friday
+SetAlarm set my alarm for {Time} on saturday
+SetAlarm set my alarm for {Time} on sunday
+SetAlarm set my alarm for {Time} mondays
+SetAlarm set my alarm for {Time} tuesdays
+SetAlarm set my alarm for {Time} wednesdays
+SetAlarm set my alarm for {Time} thursdays
+SetAlarm set my alarm for {Time} fridays
+SetAlarm set my alarm for {Time} saturdays
+SetAlarm set my alarm for {Time} sundays
+SetAlarm set my alarm for {Time} monday
+SetAlarm set my alarm for {Time} tuesday
+SetAlarm set my alarm for {Time} wednesday
+SetAlarm set my alarm for {Time} thursday
+SetAlarm set my alarm for {Time} friday
+SetAlarm set my alarm for {Time} saturday
+SetAlarm set my alarm for {Time} sunday
+SetAlarm set my alarm for {Time} for mondays
+SetAlarm set my alarm for {Time} for tuesdays
+SetAlarm set my alarm for {Time} for wednesdays
+SetAlarm set my alarm for {Time} for thursdays
+SetAlarm set my alarm for {Time} for fridays
+SetAlarm set my alarm for {Time} for saturdays
+SetAlarm set my alarm for {Time} for sundays
+SetAlarm set my alarm for {Time} for monday
+SetAlarm set my alarm for {Time} for tuesday
+SetAlarm set my alarm for {Time} for wednesday
+SetAlarm set my alarm for {Time} for thursday
+SetAlarm set my alarm for {Time} for friday
+SetAlarm set my alarm for {Time} for saturday
+SetAlarm set my alarm for {Time} for sunday
+SetAlarm set alarm {Time}
+SetAlarm set alarm {Time} on {Date}
+SetAlarm set alarm {Time} {Date}
+SetAlarm set alarm {Time} on the {Date}
+SetAlarm set alarm {Time} tonight
+SetAlarm set alarm {Time} today
+SetAlarm set alarm {Time} tomorrow
+SetAlarm set alarm {Time} every day
+SetAlarm set alarm {Time} day after tomorrow
+SetAlarm set alarm {Time} for tonight
+SetAlarm set alarm {Time} for today
+SetAlarm set alarm {Time} for tomorrow
+SetAlarm set alarm {Time} for every day
+SetAlarm set alarm {Time} for day after tomorrow
+SetAlarm set alarm {Time} for the day after tomorrow
+SetAlarm set alarm {Time} on tonight
+SetAlarm set alarm {Time} on today
+SetAlarm set alarm {Time} on tomorrow
+SetAlarm set alarm {Time} on every day
+SetAlarm set alarm {Time} on day after tomorrow
+SetAlarm set alarm {Time} on the day after tomorrow
+SetAlarm set alarm {Time} on mondays
+SetAlarm set alarm {Time} on tuesdays
+SetAlarm set alarm {Time} on wednesdays
+SetAlarm set alarm {Time} on thursdays
+SetAlarm set alarm {Time} on fridays
+SetAlarm set alarm {Time} on saturdays
+SetAlarm set alarm {Time} on sundays
+SetAlarm set alarm {Time} on monday
+SetAlarm set alarm {Time} on tuesday
+SetAlarm set alarm {Time} on wednesday
+SetAlarm set alarm {Time} on thursday
+SetAlarm set alarm {Time} on friday
+SetAlarm set alarm {Time} on saturday
+SetAlarm set alarm {Time} on sunday
+SetAlarm set alarm {Time} mondays
+SetAlarm set alarm {Time} tuesdays
+SetAlarm set alarm {Time} wednesdays
+SetAlarm set alarm {Time} thursdays
+SetAlarm set alarm {Time} fridays
+SetAlarm set alarm {Time} saturdays
+SetAlarm set alarm {Time} sundays
+SetAlarm set alarm {Time} monday
+SetAlarm set alarm {Time} tuesday
+SetAlarm set alarm {Time} wednesday
+SetAlarm set alarm {Time} thursday
+SetAlarm set alarm {Time} friday
+SetAlarm set alarm {Time} saturday
+SetAlarm set alarm {Time} sunday
+SetAlarm set alarm {Time} for mondays
+SetAlarm set alarm {Time} for tuesdays
+SetAlarm set alarm {Time} for wednesdays
+SetAlarm set alarm {Time} for thursdays
+SetAlarm set alarm {Time} for fridays
+SetAlarm set alarm {Time} for saturdays
+SetAlarm set alarm {Time} for sundays
+SetAlarm set alarm {Time} for monday
+SetAlarm set alarm {Time} for tuesday
+SetAlarm set alarm {Time} for wednesday
+SetAlarm set alarm {Time} for thursday
+SetAlarm set alarm {Time} for friday
+SetAlarm set alarm {Time} for saturday
+SetAlarm set alarm {Time} for sunday
+SetAlarm set my alarm {Time}
+SetAlarm set my alarm {Time} on {Date}
+SetAlarm set my alarm {Time} {Date}
+SetAlarm set my alarm {Time} on the {Date}
+SetAlarm set my alarm {Time} tonight
+SetAlarm set my alarm {Time} today
+SetAlarm set my alarm {Time} tomorrow
+SetAlarm set my alarm {Time} every day
+SetAlarm set my alarm {Time} day after tomorrow
+SetAlarm set my alarm {Time} for tonight
+SetAlarm set my alarm {Time} for today
+SetAlarm set my alarm {Time} for tomorrow
+SetAlarm set my alarm {Time} for every day
+SetAlarm set my alarm {Time} for day after tomorrow
+SetAlarm set my alarm {Time} for the day after tomorrow
+SetAlarm set my alarm {Time} on tonight
+SetAlarm set my alarm {Time} on today
+SetAlarm set my alarm {Time} on tomorrow
+SetAlarm set my alarm {Time} on every day
+SetAlarm set my alarm {Time} on day after tomorrow
+SetAlarm set my alarm {Time} on the day after tomorrow
+SetAlarm set my alarm {Time} on mondays
+SetAlarm set my alarm {Time} on tuesdays
+SetAlarm set my alarm {Time} on wednesdays
+SetAlarm set my alarm {Time} on thursdays
+SetAlarm set my alarm {Time} on fridays
+SetAlarm set my alarm {Time} on saturdays
+SetAlarm set my alarm {Time} on sundays
+SetAlarm set my alarm {Time} on monday
+SetAlarm set my alarm {Time} on tuesday
+SetAlarm set my alarm {Time} on wednesday
+SetAlarm set my alarm {Time} on thursday
+SetAlarm set my alarm {Time} on friday
+SetAlarm set my alarm {Time} on saturday
+SetAlarm set my alarm {Time} on sunday
+SetAlarm set my alarm {Time} mondays
+SetAlarm set my alarm {Time} tuesdays
+SetAlarm set my alarm {Time} wednesdays
+SetAlarm set my alarm {Time} thursdays
+SetAlarm set my alarm {Time} fridays
+SetAlarm set my alarm {Time} saturdays
+SetAlarm set my alarm {Time} sundays
+SetAlarm set my alarm {Time} monday
+SetAlarm set my alarm {Time} tuesday
+SetAlarm set my alarm {Time} wednesday
+SetAlarm set my alarm {Time} thursday
+SetAlarm set my alarm {Time} friday
+SetAlarm set my alarm {Time} saturday
+SetAlarm set my alarm {Time} sunday
+SetAlarm set my alarm {Time} for mondays
+SetAlarm set my alarm {Time} for tuesdays
+SetAlarm set my alarm {Time} for wednesdays
+SetAlarm set my alarm {Time} for thursdays
+SetAlarm set my alarm {Time} for fridays
+SetAlarm set my alarm {Time} for saturdays
+SetAlarm set my alarm {Time} for sundays
+SetAlarm set my alarm {Time} for monday
+SetAlarm set my alarm {Time} for tuesday
+SetAlarm set my alarm {Time} for wednesday
+SetAlarm set my alarm {Time} for thursday
+SetAlarm set my alarm {Time} for friday
+SetAlarm set my alarm {Time} for saturday
+SetAlarm set my alarm {Time} for sunday
+SetAlarm my alarm for {Time}
+SetAlarm my alarm for {Time} on {Date}
+SetAlarm my alarm for {Time} {Date}
+SetAlarm my alarm for {Time} on the {Date}
+SetAlarm my alarm for {Time} tonight
+SetAlarm my alarm for {Time} today
+SetAlarm my alarm for {Time} tomorrow
+SetAlarm my alarm for {Time} every day
+SetAlarm my alarm for {Time} day after tomorrow
+SetAlarm my alarm for {Time} for tonight
+SetAlarm my alarm for {Time} for today
+SetAlarm my alarm for {Time} for tomorrow
+SetAlarm my alarm for {Time} for every day
+SetAlarm my alarm for {Time} for day after tomorrow
+SetAlarm my alarm for {Time} for the day after tomorrow
+SetAlarm my alarm for {Time} on tonight
+SetAlarm my alarm for {Time} on today
+SetAlarm my alarm for {Time} on tomorrow
+SetAlarm my alarm for {Time} on every day
+SetAlarm my alarm for {Time} on day after tomorrow
+SetAlarm my alarm for {Time} on the day after tomorrow
+SetAlarm my alarm for {Time} on mondays
+SetAlarm my alarm for {Time} on tuesdays
+SetAlarm my alarm for {Time} on wednesdays
+SetAlarm my alarm for {Time} on thursdays
+SetAlarm my alarm for {Time} on fridays
+SetAlarm my alarm for {Time} on saturdays
+SetAlarm my alarm for {Time} on sundays
+SetAlarm my alarm for {Time} on monday
+SetAlarm my alarm for {Time} on tuesday
+SetAlarm my alarm for {Time} on wednesday
+SetAlarm my alarm for {Time} on thursday
+SetAlarm my alarm for {Time} on friday
+SetAlarm my alarm for {Time} on saturday
+SetAlarm my alarm for {Time} on sunday
+SetAlarm my alarm for {Time} mondays
+SetAlarm my alarm for {Time} tuesdays
+SetAlarm my alarm for {Time} wednesdays
+SetAlarm my alarm for {Time} thursdays
+SetAlarm my alarm for {Time} fridays
+SetAlarm my alarm for {Time} saturdays
+SetAlarm my alarm for {Time} sundays
+SetAlarm my alarm for {Time} monday
+SetAlarm my alarm for {Time} tuesday
+SetAlarm my alarm for {Time} wednesday
+SetAlarm my alarm for {Time} thursday
+SetAlarm my alarm for {Time} friday
+SetAlarm my alarm for {Time} saturday
+SetAlarm my alarm for {Time} sunday
+SetAlarm my alarm for {Time} for mondays
+SetAlarm my alarm for {Time} for tuesdays
+SetAlarm my alarm for {Time} for wednesdays
+SetAlarm my alarm for {Time} for thursdays
+SetAlarm my alarm for {Time} for fridays
+SetAlarm my alarm for {Time} for saturdays
+SetAlarm my alarm for {Time} for sundays
+SetAlarm my alarm for {Time} for monday
+SetAlarm my alarm for {Time} for tuesday
+SetAlarm my alarm for {Time} for wednesday
+SetAlarm my alarm for {Time} for thursday
+SetAlarm my alarm for {Time} for friday
+SetAlarm my alarm for {Time} for saturday
+SetAlarm my alarm for {Time} for sunday
+SetAlarm my alarm {Time}
+SetAlarm my alarm {Time} on {Date}
+SetAlarm my alarm {Time} {Date}
+SetAlarm my alarm {Time} on the {Date}
+SetAlarm my alarm {Time} tonight
+SetAlarm my alarm {Time} today
+SetAlarm my alarm {Time} tomorrow
+SetAlarm my alarm {Time} every day
+SetAlarm my alarm {Time} day after tomorrow
+SetAlarm my alarm {Time} for tonight
+SetAlarm my alarm {Time} for today
+SetAlarm my alarm {Time} for tomorrow
+SetAlarm my alarm {Time} for every day
+SetAlarm my alarm {Time} for day after tomorrow
+SetAlarm my alarm {Time} for the day after tomorrow
+SetAlarm my alarm {Time} on tonight
+SetAlarm my alarm {Time} on today
+SetAlarm my alarm {Time} on tomorrow
+SetAlarm my alarm {Time} on every day
+SetAlarm my alarm {Time} on day after tomorrow
+SetAlarm my alarm {Time} on the day after tomorrow
+SetAlarm my alarm {Time} on mondays
+SetAlarm my alarm {Time} on tuesdays
+SetAlarm my alarm {Time} on wednesdays
+SetAlarm my alarm {Time} on thursdays
+SetAlarm my alarm {Time} on fridays
+SetAlarm my alarm {Time} on saturdays
+SetAlarm my alarm {Time} on sundays
+SetAlarm my alarm {Time} on monday
+SetAlarm my alarm {Time} on tuesday
+SetAlarm my alarm {Time} on wednesday
+SetAlarm my alarm {Time} on thursday
+SetAlarm my alarm {Time} on friday
+SetAlarm my alarm {Time} on saturday
+SetAlarm my alarm {Time} on sunday
+SetAlarm my alarm {Time} mondays
+SetAlarm my alarm {Time} tuesdays
+SetAlarm my alarm {Time} wednesdays
+SetAlarm my alarm {Time} thursdays
+SetAlarm my alarm {Time} fridays
+SetAlarm my alarm {Time} saturdays
+SetAlarm my alarm {Time} sundays
+SetAlarm my alarm {Time} monday
+SetAlarm my alarm {Time} tuesday
+SetAlarm my alarm {Time} wednesday
+SetAlarm my alarm {Time} thursday
+SetAlarm my alarm {Time} friday
+SetAlarm my alarm {Time} saturday
+SetAlarm my alarm {Time} sunday
+SetAlarm my alarm {Time} for mondays
+SetAlarm my alarm {Time} for tuesdays
+SetAlarm my alarm {Time} for wednesdays
+SetAlarm my alarm {Time} for thursdays
+SetAlarm my alarm {Time} for fridays
+SetAlarm my alarm {Time} for saturdays
+SetAlarm my alarm {Time} for sundays
+SetAlarm my alarm {Time} for monday
+SetAlarm my alarm {Time} for tuesday
+SetAlarm my alarm {Time} for wednesday
+SetAlarm my alarm {Time} for thursday
+SetAlarm my alarm {Time} for friday
+SetAlarm my alarm {Time} for saturday
+SetAlarm my alarm {Time} for sunday
+Setalarm set alarm for high noon
